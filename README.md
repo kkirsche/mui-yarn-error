@@ -1,10 +1,16 @@
 # `@mui/lab` installation issue
 
+## Yarn Installation
+
+Please refer to the yarn installation guide for details on installing Yarn.
+
+https://yarnpkg.com/getting-started/install
+
 ## Reproduction
 
 To reproduce the error as of Tuesday, September 12, 2023, run `yarn add @mui/lab`:
 
-## Example Output
+### Example Output
 
 The following was produced at 10:51 AM Eastern Time on Tuesday, September 12, 2023
 
